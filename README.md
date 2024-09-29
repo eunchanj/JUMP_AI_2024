@@ -68,3 +68,7 @@ https://dacon.io/competitions/official/236336/overview/description
 - **RDKit & PaDEL**: 분자 descriptors 계산을 위한 주요 툴
 - **AutoML**: MLJar, TPOT을 통한 모델 자동화 및 성능 비교
 - **DeepChem**: ChemBERTa와 기타 딥러닝 프레임워크 연동
+
+** Final Rank**
+![마지막에 제출예정이었던 파일,,, 8위위](./final_rank.png)
+
